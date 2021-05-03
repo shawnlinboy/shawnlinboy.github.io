@@ -17,7 +17,7 @@ timezone: Asia/Shanghai
 # --------------------------
 title: Shen Lin                         # the main title
 
-tagline: Coder, Vlogger   # it will display as the sub-title
+tagline: Coder, Vlogger, and…   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
