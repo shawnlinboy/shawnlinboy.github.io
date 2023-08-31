@@ -77,6 +77,6 @@ async function handleRequest(request) {
 img_cdn: https://img.linshen.me
 ```
 
-### 参考文章：
+### 参考文章
 
 https://senjianlu.com/2021/12/cloudflare-workers-image/
