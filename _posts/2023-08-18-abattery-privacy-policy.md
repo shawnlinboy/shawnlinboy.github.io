@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Privacy Policy"
-category: Android
+category: aBattery
 tags: aBattery
 ---
 
