@@ -35,7 +35,7 @@ This value was optional before Android 14, hence your device manufacturer might 
 
 <br>
 
-__Q: Why does my 'Maximum capacity' display differently compared to other similar applications?__
+__Q: Why does my `Maximum capacity` display differently compared to other similar applications?__
 
 Algorithm diff leads to this after looking into the source. 
 Many other apps read data by calling `BatteryManager.getIntProperty(BATTERY_PROPERTY_STATE_OF_HEALTH)` directly, while I read `charge_full` and `charge_full_design` under `/sys/class/power_supply/battery/` then do the division.
