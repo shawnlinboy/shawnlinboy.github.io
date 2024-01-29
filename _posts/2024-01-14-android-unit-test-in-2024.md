@@ -167,7 +167,7 @@ From the configuration file above, the Settings project defines numerous unit te
 
 ## Can Unit Testing Replace Manual Testing?
 
-The answer is unequivocally—no.
+The answer is unequivocally—NO.
 
 Unit testing primarily checks whether the code's logic is working correctly, focusing on the pure logic aspects, edge cases, and proper handling of exceptions. In other words, if a method is supposed to calculate `1 + 1 = 2`, unit testing ensures that as long as `1 + 1 ≠ 2`, it will immediately notify you, without waiting until it's deployed. This brings obvious benefits, saving a lot of manpower and time and maintaining the project at a good health.
 
