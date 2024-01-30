@@ -7,7 +7,7 @@ tags: android unittest
 
 Most of us Android developers are familiar with the project structure, and if you take a look, you'll likely find two folders: `androidTest` and `test`. Personally, I used to know very little about unit testing in Android development. It seems like many companies in China don't prioritize unit testing, and most developers rarely write code in these two folders. Does your company or project have unit tests? Feel free to share in the comments.
 
-![image.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/02f830f5888b4072a7491595bcb4e35d~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=205&h=90&s=6249&e=png&b=2c2e31)
+![image.png](/posts/android-test-folder.jpg)
 
 ## What is Unit Testing?
 
