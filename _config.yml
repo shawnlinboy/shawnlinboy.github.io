@@ -33,7 +33,7 @@ description: >- # used by seo meta and the atom feed
   Shen Lin, aka shawnlinboy, a Developer/Vlogger/Tech unboxer/Variouser.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: “https://shawnlinboy.github.io”
+url: ‘https://shawnlinboy.github.io’
 
 github:
   username: shawnlinboy # change to your github username
@@ -51,7 +51,7 @@ social:
     - https://twitter.com/shhenlin # change to your twitter homepage
     # - https://github.com/username # change to your github homepage
 
-google_site_verification: “EM6gu5_3LJPB1OCcti9sUDKiqENcIcT_HlCUSugyWe0”
+google_site_verification: EM6gu5_3LJPB1OCcti9sUDKiqENcIcT_HlCUSugyWe0
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
