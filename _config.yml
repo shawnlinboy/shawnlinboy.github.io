@@ -33,7 +33,7 @@ description: >- # used by seo meta and the atom feed
   Shen Lin, aka shawnlinboy, a Developer/Vlogger/Tech unboxer/Variouser.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ‘https://shawnlinboy.github.io’
+url: "https://shawnlinboy.github.io"
 
 github:
   username: shawnlinboy # change to your github username
@@ -48,10 +48,10 @@ social:
   email: hello@linshen.me # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/shhenlin # change to your twitter homepage
+    - https://twitter.com/san_laam # change to your twitter homepage
     # - https://github.com/username # change to your github homepage
 
-google_site_verification: EM6gu5_3LJPB1OCcti9sUDKiqENcIcT_HlCUSugyWe0
+google_site_verification: # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
@@ -125,6 +125,9 @@ pwa:
   enabled: true # the option for PWA feature
 
 paginate: 10
+
+# The base URL of your site
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
