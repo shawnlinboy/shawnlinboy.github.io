@@ -15,19 +15,19 @@ tags: github cloudflare
 
 打开 Cloudflare 主页，进到你要使用的域名，点击左侧的 Workers & Pages, 然后右边 “Create Application"
 
-![](../assets/img/posts/Capture-180.png)
+![](/posts/Capture-180.png)
 
 然后在创建页面点击 "Create Worker" ，下一步。
 
-![](../assets/img/posts/Capture-181.png)
+![](/posts/Capture-181.png)
 
 取一个你喜欢的 Name，比如我直接叫 “img”，下面的代码保持默认，然后点击 "Deploy"（不用理会下方截图上 Name 后面的 Not available，是因为写文章的时候我已经创建完一个了）
 
-![](../assets/img/posts/Capture-182.png)
+![](/posts/Capture-182.png)
 
 Cloudflare 这一点比较奇怪，必须先部署了才给编辑代码，点击 "Edit code"
 
-![](../assets/img/posts/Capture-183.png)
+![](/posts/Capture-183.png)
 
 修改 worker.js 如下：
 ```js
@@ -58,9 +58,9 @@ async function handleRequest(request) {
 
 最后不要忘记绑定域名和做一下地址转发。点击你刚才新建的 Worker 里面的 "Triggers"，在 `Custom Domains` 里输入上面的 `origin_host`，再在 `Routes` 里绑定 `origin_host` 的所有 path，比如我这里就是 `img.linshen.me/*`
 
-![](../assets/img/posts/Capture-184.png)
+![](/posts/Capture-184.png)
 
-![](../assets/img/posts/Capture-185.png)
+![](/posts/Capture-185.png)
 
 大功告成！
 
