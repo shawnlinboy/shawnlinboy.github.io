@@ -94,7 +94,7 @@ In my experience leading a team, I often told team members, "We have many change
 
 This simple principle applies across teams. Testers don't touch the code and don't know where you've written logic. Operations colleagues aren't interested in technology and won't understand if your change affects some data incompatibility. As developers, we can use unit tests to enrich the cases we can think of during code development. By doing so, we empower the future maintainers to confidently refactor or add new features, knowing that if they inadvertently break something, tests will fail. This helps detect issues early in the development process.
 
-### How AOSP Uses Unit Testing
+## How AOSP Uses Unit Testing
 
 As many are aware, AOSP (Android Open Source Project) maintains both an internal branch (`internal`) and an external branch (`main`).
 
