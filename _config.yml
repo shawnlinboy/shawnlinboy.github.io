@@ -3,10 +3,6 @@
 # Import the theme
 theme: jekyll-theme-chirpy
 
-# Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
-# and doesn't have a custom domain.
-baseurl: ""
-
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
@@ -51,7 +47,7 @@ social:
     - https://twitter.com/san_laam # change to your twitter homepage
     # - https://github.com/username # change to your github homepage
 
-google_site_verification: # fill in to your verification string
+google_site_verification: EM6gu5_3LJPB1OCcti9sUDKiqENcIcT_HlCUSugyWe0
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
