@@ -5,67 +5,75 @@ category: aBattery
 tags: aBattery
 ---
 
-**Privacy Policy**
+# Privacy Policy
 
-#### Last update: 2023-08-18
+#### Last update: 2025-10-09
 
-Shen Lin built the aBattery app as a Free app. This SERVICE is provided by Shen Lin at no cost and is intended for use as is.
+Shen Lin built the **aBattery** app as a Free app. This SERVICE is provided by Shen Lin at no cost and is intended for use as is.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of personal information if anyone decides to use my Service.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+By using this Service, you agree to the collection and use of information as described in this policy. Any information collected is used solely to provide and improve the Service. I do not personally collect or process user data beyond what is handled automatically by third-party services integrated in the app.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at aBattery unless otherwise defined in this Privacy Policy.
+---
 
-**Information Collection and Use**
+## Information Collection and Use
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+The app integrates third-party services that may collect information used to identify you. These services are provided by Google and operate under their respective privacy policies.
 
-The app does use third-party services that may collect information used to identify you.
+**Third-party services used by the app include:**
 
-Link to the privacy policy of third-party service providers used by the app
+- [Google Play Services](https://www.google.com/policies/privacy/)
+- [Google AdMob](https://policies.google.com/technologies/ads)
+- [Google User Messaging Platform (UMP)](https://privacy.google.com/businesses/user-messaging-platform/)
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
+**Purpose of use:**
 
-**Log Data**
+- **Google AdMob** is used to display ads within the app. Advertising data such as your device’s advertising ID may be processed by Google to provide personalized or non-personalized ads according to your consent.
+- **Google User Messaging Platform (UMP)** is used to obtain and manage user consent regarding data usage and advertising in compliance with the EU General Data Protection Regulation (GDPR) and other applicable laws.
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+All data collection and processing for advertising and analytics are handled directly by Google under their own privacy terms. I do not have access to, nor do I store, transmit, or share any personal data of users.
 
-**Cookies**
+---
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+## GDPR and EU Representative
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+This app is developed and maintained by an independent developer based in Hong Kong.  
+I do not directly process or store any personal data of users in the European Union. All data handling related to advertising or analytics is conducted by Google, as the data controller, under its own GDPR-compliant framework.
 
-**Service Providers**
+Based on the nature of the app and the fact that I do not independently determine or process user data from the EU, I believe the appointment of an EU representative under Article 27 of the GDPR is **not required**.  
+However, users in the EU may contact me directly if they have any data protection inquiries regarding the app.
 
-I may employ third-party companies and individuals due to the following reasons:
+---
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+## Log Data
 
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+In case of an error, the app may collect log data (through third-party tools) such as your device’s Internet Protocol (IP) address, device name, operating system version, app configuration, time and date of use, and other statistics. This information is used only for debugging and improving the app experience.
 
-**Security**
+---
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+## Cookies
 
-**Links to Other Sites**
+This app does not explicitly use cookies. However, third-party services integrated in the app (such as Google AdMob) may use cookies or similar technologies to serve ads and improve their services. You can manage your cookie preferences through the consent dialog shown by Google UMP.
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+---
 
-**Children’s Privacy**
+## Children’s Privacy
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+This service is available to children of all ages with no special restrictions.
 
-**Changes to This Privacy Policy**
+---
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+## Changes to This Privacy Policy
 
-This policy is effective as of 2023-08-18
+This policy may be updated periodically. You are advised to review this page for changes. Updates will be posted on this page with the effective date.
 
-**Contact Us**
+**Effective date:** 2025-10-09
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at matserlam@protonmail.com.
+---
+
+## Contact Us
+
+If you have any questions or concerns about this Privacy Policy, you can contact me at:
+
+📧 **matserlam@protonmail.com**
