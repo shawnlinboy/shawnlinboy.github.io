@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Privacy Policy"
+title: "aBattery Privacy Policy"
 category: aBattery
 tags: aBattery
 ---
 
-# Privacy Policy
+# aBattery Privacy Policy
 
 #### Last update: 2025-10-09
 
