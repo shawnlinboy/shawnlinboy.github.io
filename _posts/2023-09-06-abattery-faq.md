@@ -5,21 +5,25 @@ category: abattery
 tags: abattery
 ---
 
-Last update: 2023-09-07 00:18:19
+Last update: 2026-01-14 12:00:00
 
-Target version: 1.0.6
+Target version: 1.0.17
+
+> **📣Notice:** For users running Android 16 QPR1 or above, if you continue to encounter the "Service not running" issue with Shizuku, please [manually download version 13.6.0](https://github.com/RikkaApps/Shizuku/releases/tag/v13.6.0) to resolve this.
+
+> __⚠️Disclaimer: aBattery has no financial or other interests in [Shizuku](https://rikka.app/privacy_policy/#shizuku).__
+
+__Q: What is aBattery?__
 
 [aBattery](https://play.google.com/store/apps/details?id=me.linshen.abattery) is a ready-to-use battery information viewing tool. It is so lightweight and straightforward, allowing for immediate use and departure, while continuously accepting user feedback and making incessant improvements.
 
 The information aBattery queries mainly comes from the battery-health related APIs introduced in Android 14. However, since some manufacturers have written some information even in earlier versions of Android, aBattery also attempt to read this. Nonetheless, to ensure the information is as reliable as possible, the application only supports Android 11+.
 
-Here are the answers to some common questions you may encounter during use:
-
 <br>
 
-__Q: What features are planned for development?__
+__Q: What is Shizuku and why do I need to install another application?__
 
-Appwidgets, SystemUI Tiles support... Please do let me know if you have additional ideas💡.
+When you require privileged permission, it indicates that the information you are viewing is restricted by Google's regulations. Only system applications or applications with advanced permissions (root permissions) can access this information. However, most users are not adept at rooting devices and are adverse to it. Hence, aBattery supports [Shizuku](https://shizuku.rikka.app/introduction), allowing you to grant application system permissions without having to root your device. 
 
 <br>
 
@@ -61,9 +65,3 @@ __Q: Why some information not displayed on my device?__
 Your device manufacturer might not have reported or erroneously reported this information. aBattery will make a simple judgement - if it deems the value unreasonable, it will directly hide this piece of information.
 
 <br>
-
-__Q: What is Shizuku and why do I need to install another application?__
-
-When you require privileged permission, it indicates that the information you are viewing is restricted by Google's regulations. Only system applications or applications with advanced permissions (root permissions) can access this information. However, most users are not adept at rooting devices and are adverse to it. Hence, aBattery supports [Shizuku](https://shizuku.rikka.app/introduction), allowing you to grant application system permissions without having to root your device. 
-
-Also it is worth mentioning that I have no vested interests with Shizuku or its author.
