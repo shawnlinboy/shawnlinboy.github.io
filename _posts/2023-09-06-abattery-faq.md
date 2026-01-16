@@ -51,17 +51,14 @@ There are 2 reasons for doing so:
 
 <br>
 
-__Q: I've already granted permissions, why does it still display `Device denied this query`?__
+__Q: Why some information not displayed on my device?__
 
 This issue has been detected on some Samsung, Xiaomi, and OnePlus devices. The reasons can be:
+
 * Your device manufacturer indeed has additional security policies that intercept such queries, for example [Samsung Knox](https://www.samsungknox.com/) does this.
 * Your device truly did not find the corresponding battery information.
 * Some information may only be available after upgrading your device to Android 14.
 
-<br>
-
-__Q: Why some information not displayed on my device?__
-
-Your device manufacturer might not have reported or erroneously reported this information. aBattery will make a simple judgement - if it deems the value unreasonable, it will directly hide this piece of information.
+aBattery will make a simple judgement. if it deems the value unreasonable, it will directly hide this piece of information.
 
 <br>
