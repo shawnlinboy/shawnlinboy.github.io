@@ -3,7 +3,7 @@ layout: post
 title: "great font rendering effect for android studio on linux"
 date: 2014-05-27 17:29:57 +0800
 comments: true
-tags: android studio
+tags: [Android Studio]
 categories: Android
 ---
 > 一年后的今天，当我鼓起勇气再一次打开 Android Studio，这 Linux 下华丽的字体渲染再一次把我亮瞎了。

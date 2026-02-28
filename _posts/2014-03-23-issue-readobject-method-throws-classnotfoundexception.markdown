@@ -3,7 +3,7 @@ layout: post
 title: "Android Issue: readObject method throws ClassNotFoundException"
 date: 2014-03-23 01:12:49 +0800
 comments: true
-tags: android aidl java
+tags: AIDL Java
 categories: Android
 ---
 今天在项目中遇到一个问题，解决后发现也加深了我对 AIDL 的理解，果然知识到了一定水平之后确实是融会贯通的！

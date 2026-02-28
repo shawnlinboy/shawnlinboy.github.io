@@ -2,7 +2,7 @@
 layout: post
 title: "Java: Everything About Interface Callback"
 date: 2014-04-06 02:47:43 +0800
-tags: java
+tags: Java
 categories: Java
 ---
 Instruction

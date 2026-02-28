@@ -2,7 +2,7 @@
 layout: post
 title: "使用 Statically 配合 Github 做一个带 CDN 的图床"
 category: Web
-tags: Statically Github CDN 图床
+tags: Statically GitHub CDN 图床
 ---
 
 Jekyll 写博客有个好处，就是可以直接调用 `assets` 下面的图片，但是部署到 Github 之后，由于众所周知的原因，在国内的访问速度可能会被图片加载拖慢，这个时候套上 Statically 可以加快访问速度，啪一下很快啊，一个图床就诞生了。

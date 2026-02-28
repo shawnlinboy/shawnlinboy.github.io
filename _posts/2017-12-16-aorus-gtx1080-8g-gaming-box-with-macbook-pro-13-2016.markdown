@@ -2,7 +2,7 @@
 layout: post
 title: "2016 Macbook Pro 13' 安装 AORUS GTX1080 8G Gaming Box 完整教程"
 date: 2017-12-16 01:22:21 +0800
-tags: gaming Windows AORUS Macbook
+tags: Windows AORUS MacBook
 categories: Geek
 ---
 最近为了吃鸡入了一块 [AORUS GTX1080 8G Gaming Box](https://www.gigabyte.com/Graphics-Card/GV-N1080IXEB-8GD)，本来打算上 Dell 的 [外星人Alienware ALPHA(阿尔法)R2](https://item.jd.com/3122894.html)，可是实在是太太太太太贵了，再加上当时买这台 Macbook 的时候我升到了 i7 + 16G RAM，感觉也没必要为此新买一台电脑，因为理论上来讲目前的配置，只差一块给力的显卡就能顺利吃鸡，于是就有了接下来要做的。

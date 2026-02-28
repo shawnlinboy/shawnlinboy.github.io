@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "FAQ about aBattery"
-category: abattery
-tags: abattery
+category: aBattery
+tags: aBattery
 ---
 
 Last update: 2026-01-14 12:00:00

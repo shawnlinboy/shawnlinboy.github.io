@@ -3,7 +3,7 @@ layout: post
 title: "Linux Issue: xmapp apache not started"
 date: 2014-03-15 18:42:35 +0800
 comments: true
-tags: xampp
+tags: XAMPP
 categories: Web 
 ---
 

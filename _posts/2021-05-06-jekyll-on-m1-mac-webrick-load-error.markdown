@@ -2,7 +2,7 @@
 layout: post
 title: "Apple Silicon Mac 找不到 jekyll 以及 webrick 错误的解决方案"
 category: Web
-tags: jekyll webtrick mac m1
+tags: Jekyll WEBrick Mac M1
 ---
 
 周末入了一台 M1 芯片的 2020 款 Macbook Air，这两天陆陆续续把各种环境都搭得差不多了。

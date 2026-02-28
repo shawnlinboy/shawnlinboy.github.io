@@ -2,7 +2,7 @@
 layout: post
 title: "由 MTK 关机闹钟实现，浅析一种低侵入式修改 framework 方案"
 category: Android
-tags: Android AOSP framework
+tags: AOSP framework
 ---
 
 最近在修复一款 MTK 平台机器关机闹钟相关的 bug，简单了解了一下 MTK 关机闹钟的实现原理。发现相比于在 framework 里直接大动干戈，MTK 对框架的定制修改则采用了一种侵入性相对较小的方案，本文对这种方案进行了简单分析。

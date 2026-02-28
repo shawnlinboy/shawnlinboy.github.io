@@ -2,7 +2,7 @@
 layout: post
 title: "build.gradle，从 groovy 到 kts 迁移指南"
 category: Android
-tags: Android gradle kotlin kts
+tags: Gradle Kotlin KTS
 ---
 
 ## 先说结论
