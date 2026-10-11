@@ -2,7 +2,7 @@
 layout: post
 title: "使用 Cloudflare Workers 加速 Github 静态资源"
 category: Web
-tags: github cloudflare
+tags: GitHub cloudflare
 ---
 
 今天更新一篇文章，教大家如何利用 Cloudflare Workers 搭建一个 Github 图片资源的反代。
